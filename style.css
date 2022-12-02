@@ -1,0 +1,43 @@
+body,html,*{
+	box-sizing: border-box;
+}
+.d1
+{
+	height: 150px;
+	background-color: #FC21C1;
+	margin: 20px;
+	padding: 10px;
+}
+.d2
+{
+	height: 300px;
+	margin: 20px;
+}
+.d2-left-wrapper
+{
+width: 60%;
+height: 100%;
+float: left;
+padding-right: 15px;
+
+}
+.d2-left
+{
+    height: 100%;
+	width: 100%;
+	background-color: #FB0F7E;
+}
+.d2-right
+{
+	float: left;
+    height: 100%;
+	width: 40%;
+	background-color: #C41D68;
+}
+.d3
+{
+	height: 150px;
+	background-color: #921969;
+	margin: 20px;
+	padding: 10px;
+}
